@@ -8,7 +8,8 @@ We have taken the time to refactor the whole website, and with this, to make it 
 * 1. Download ```<your-lang>.json``` file from this GitHub or edit here on GitHub
 * 2. Open in your favorite text editor (eg. Notepad ++) or edit here on GitHub
 * 3. Edit only second part of the line for example:
--  ```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
+
+```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
 * 4. Submit Pull-Request and wait until we merge
 
 ## How-To (New Langugages)
@@ -16,7 +17,8 @@ We have taken the time to refactor the whole website, and with this, to make it 
 * 1. Download ```en.json``` file from this GitHub repo or edit here on GitHub
 * 2. Open in your favorite text editor or edit here on GitHub
 * 3. Edit only second part of the line for example:
--  ```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
+
+```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
 * 4. Submit Pull-Request and wait until we merge
 
 ## Contributing
