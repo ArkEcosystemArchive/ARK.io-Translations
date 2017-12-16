@@ -2,7 +2,7 @@
 
 ## ARK.io Translations
 
-We have taken the time to refactor the whole website, and with this, to make it modular it for easier management, including language files. As new lines for translations are added, we will put them at the beginning of the file so you can easily see what has not yet been translated into your language.
+We have taken the time to refactor the whole website, and with this, to make it modular it for easier management, including language files. As new lines for translations are added, we will put them at the end of the file so you can easily see what has not yet been translated into your language.
 
 ## How-To (Current Languages)
 * 1. Download ```<your-lang>.json``` file from this GitHub or edit here on GitHub
