@@ -2,15 +2,14 @@
 
 ## ARK.io Translations
 
-We have taken time to refactor whole website and with this modularize it for easier management (including language files). 
-When new lines for translations will appear we'll put them at the beginning of the file so you can more easily see what hasn't been translated in your language.
+We have taken the time to refactor the whole website, and with this, to make it modular it for easier management, including language files. As new lines for translations are added, we will put them at the beginning of the file so you can easily see what has not yet been translated into your language.
 
 ## How-To (Current Languages)
 * 1. Download ```<your-lang>.json``` file from this GitHub or edit here on GitHub
 * 2. Open in your favorite text editor (eg. Notepad ++) or edit here on GitHub
 * 3. Edit only second part of the line for example:
 -  ```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
-* 4. Submit Pull-Request and wait till we merge
+* 4. Submit Pull-Request and wait until we merge
 
 ## How-To (New Langugages)
 
@@ -18,10 +17,10 @@ When new lines for translations will appear we'll put them at the beginning of t
 * 2. Open in your favorite text editor or edit here on GitHub
 * 3. Edit only second part of the line for example:
 -  ```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
-* 4. Submit Pull-Request and wait till we merge
+* 4. Submit Pull-Request and wait until we merge
 
 ## Contributing
 
-Translations are not part of normal development GitHub bounty. However new, untranslated languages will get some ARK tokens for whole translations of files. Join ARK slack and contact 'boldninja' before starting translating to new language to not duplicate any efforts if language is already in the works.
+Translations are not part of the regular development GitHub bounty. However, new untranslated languages will receive some ARK tokens for the complete translation of files. Join ARK slack, and contact 'boldninja' before starting translation to new languages to avoid duplication of any effort in the event a language is already being translated.
 
 ### License [MIT](LICENSE.md) | 2017 ARK.io
