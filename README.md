@@ -12,6 +12,8 @@ We have taken the time to refactor the whole website, and with this, to make it 
 ```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
 * 4. Submit Pull-Request and wait until we merge
 
+Things like ARK, SmartBridge, Point. Click. Blockchain., All-in-One Blockchain Solutions shouldn't be translated.
+
 ## How-To (New Langugages)
 
 * 1. Download ```en.json``` file from this GitHub repo or edit here on GitHub
@@ -20,6 +22,8 @@ We have taken the time to refactor the whole website, and with this, to make it 
 
 ```"A Wallet for Everyone": "A Wallet for Everyone",``` -> ```"A Wallet for Everyone": "Translate Here",```
 * 4. Submit Pull-Request and wait until we merge
+
+Things like ARK, SmartBridge, Point. Click. Blockchain., All-in-One Blockchain Solutions shouldn't be translated.
 
 ## Contributing
 
