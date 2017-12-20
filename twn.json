@@ -28,7 +28,7 @@
     "ARK CORE - Founding Members, Advisers, and Crew": "ARK CORE - 創始人, 顧問, 船員",
     "ARK CORE v2": "ARK CORE v2",
     "ARK Delegate List": "ARK受託人名單",
-    "ARK is a truly global effort with 15 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK是多元國家實力. 十五船員在十一不一樣國家, 還有很多其他開發商. ARK真的是國際的社會.",
+    "ARK is a truly global effort with 17 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK是多元國家實力. 十五船員在十一不一樣國家, 還有很多其他開發商. ARK真的是國際的社會.",
     "ARK is built on node.js/javascript but we want the world of developers to be comfortable in their favorite programming languages. So we are integrating multiple other languages.": "ARK的核心代碼是node.js/javascript電腦語言, 但是我們要舒服電腦業者所以有很多不一樣應用編程接(API).",
     "ARK isn’t being built by one man, one team, or even in one country.": "ARK不是一個人, 不是一個團體, 不是一個國家.",
     "ARK Legacy Members": "ARK資深會員",
@@ -42,7 +42,7 @@
     "ARK Roadmap": "ARK路線圖",
     "ARK utilizes a modified Delegated-Proof-Of-Stake (DPoS) consensus mechanism featuring 51 delegates": "ARK的共識機制是授權股權證明機制(DPoS). ARK的中塊鏈有51個受託人.",
     "ARK wallets connect to fully synced network peers removing the need to download the full blockchain. With the ARK wallet you are up and running as soon as it’s installed, no more syncing! And, with 8 second block times you can actually see your transactions occur in real time! No more checking in every 30 minutes to see if your transactions were confirmed.": "用ARK因爲你不用下載全部區塊鏈. 你在上網同步網路對等. 在ARK的錢包你不用等很久如果你要看你的交易因爲每個塊的時間爲8秒",
-    "ARK was founded by 27 individuals from around the globe. Currently ARK has 15 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "ARK的團體有27創始人. 現在有15船員在11不一樣國家. ARK真的是國際的社會.",
+    "ARK was founded by 27 individuals from around the globe. Currently ARK has 17 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "ARK的團體有27創始人. 現在有17船員在11不一樣國家. ARK真的是國際的社會.",
     "ARK Whitepaper": "ARK白皮書",
     "ARK | All-in-One Blockchain Solutions": "ARK | All-in-One Blockchain Solutions",
     "ArkNode": "ArkNode",
@@ -281,5 +281,11 @@
     "Writing documentation, technical WP": "寫技術文件還要教程, 更新白皮書 ",
     "Writing documents, making tutorials.": "寫技術文件還要教程, 還要教程.",
     "Writing technical specifications": "寫技術文件",
-    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "我們覺得你的手機因該可以查你的ARK,所以我們有新的app!隨時隨地做成一筆買賣."
+    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "我們覺得你的手機因該可以查你的ARK,所以我們有新的app!隨時隨地做成一筆買賣.",
+
+    "ARK Desktop Wallet": "ARK Desktop Wallet",
+    "ARK Paper Wallet": "ARK Paper Wallet",
+    "ARK Command Line Interface": "ARK Command Line Interface",
+    "ARK Lite Web Wallet": "ARK Lite Web Wallet",
+    "repositories": "repositories"
 }

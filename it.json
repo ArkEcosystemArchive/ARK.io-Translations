@@ -28,7 +28,7 @@
     "ARK CORE - Founding Members, Advisers, and Crew": "ARK CORE - Membri Fondatori, Consulenti e l'Equipaggio",
     "ARK CORE v2": "ARK CORE v2",
     "ARK Delegate List": "ARK Delegate List",
-    "ARK is a truly global effort with 15 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK é globale con 15 membri del team provenienti da 11 paesi differenti e una comunitá  in continua crescita di sviluppatori irriducibili , ARK é uno sforzo collaborativo nel vero senso della parola.",
+    "ARK is a truly global effort with 17 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK é globale con 17 membri del team provenienti da 11 paesi differenti e una comunitá  in continua crescita di sviluppatori irriducibili , ARK é uno sforzo collaborativo nel vero senso della parola.",
     "ARK is built on node.js/javascript but we want the world of developers to be comfortable in their favorite programming languages. So we are integrating multiple other languages.": "ARK é costruito su node.js/javascript ma vogliamo che il mondo degli sviluppatori si senta a proprio agio nei loro linguaggi di programmazione preferiti. Quindi stiamo integrado altri differenti linguaggi.",
     "ARK isn’t being built by one man, one team, or even in one country.": "ARK non é stato costruito da una sola persona, un team o un paese.",
     "ARK Legacy Members": "ARK Membri Legacy ",
@@ -42,7 +42,7 @@
     "ARK Roadmap": "ARK Roadmap",
     "ARK utilizes a modified Delegated-Proof-Of-Stake (DPoS) consensus mechanism featuring 51 delegates": "ARK utilizza un meccanismo di  consenso Delegated-Proof-Of-Stake (DPoS) modificato caratterizzato da 51 delegates",
     "ARK wallets connect to fully synced network peers removing the need to download the full blockchain. With the ARK wallet you are up and running as soon as it’s installed, no more syncing! And, with 8 second block times you can actually see your transactions occur in real time! No more checking in every 30 minutes to see if your transactions were confirmed.": "I wallets ARK si connettono a peer di rete completamente sincronizzati eliminando la necessitá di scaricare la blockchain completa. il wallet ARK é  attivo e funzionante appena installato, senza bisogno di sincronizzazione! E, con un block time di 8 secondi puoi vedere le tue transazioni avvenire in tempo reale! Non dovrai piú controllarle ogni 30 minuti per vedere se sono state confermate.",
-    "ARK was founded by 27 individuals from around the globe. Currently ARK has 15 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "ARK é stato fondato da 27 individui da tutto il mondo. Correntemente ARK ha 15 membri core, venenti da 11 paese differenti, dando un nuovo significato al concetto di team decentralizzato.",
+    "ARK was founded by 27 individuals from around the globe. Currently ARK has 17 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "ARK é stato fondato da 27 individui da tutto il mondo. Correntemente ARK ha 17 membri core, venenti da 11 paese differenti, dando un nuovo significato al concetto di team decentralizzato.",
     "ARK Whitepaper": "Whitepaper di ARK ",
     "ARK | All-in-One Blockchain Solutions": "ARK | All-in-One Blockchain Solutions",
     "ArkNode": "ArkNode",
@@ -281,5 +281,11 @@
     "Writing documentation, technical WP": "Scrivere la  documentazione, WP tecnico",
     "Writing documents, making tutorials.": "Scrivere documenti, fare tutorials.",
     "Writing technical specifications": "Scrivere specificazioni tecniche",
-    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Dovresti avere accesso ai tuoi soldi in qualunque posto tu sia e quando vuoi. Questo é il perché ARK ha wallets mobile nativi per entrambi Android e iOS. Controlla il tuo saldo, invia & ricevi fondi, o vota il tuo delegate preferito, anche in movimento!"
+    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Dovresti avere accesso ai tuoi soldi in qualunque posto tu sia e quando vuoi. Questo é il perché ARK ha wallets mobile nativi per entrambi Android e iOS. Controlla il tuo saldo, invia & ricevi fondi, o vota il tuo delegate preferito, anche in movimento!",
+
+    "ARK Desktop Wallet": "ARK Desktop Wallet",
+    "ARK Paper Wallet": "ARK Paper Wallet",
+    "ARK Command Line Interface": "ARK Command Line Interface",
+    "ARK Lite Web Wallet": "ARK Lite Web Wallet",
+    "repositories": "repositories"
 }

@@ -28,7 +28,7 @@
     "ARK CORE - Founding Members, Advisers, and Crew": "ARK, son noyau dur  - Membres fondateurs, Conseillers et Équipage ",
     "ARK CORE v2": "ARK CORE v2",
     "ARK Delegate List": "Liste des délégués ARK",
-    "ARK is a truly global effort with 15 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK est une aventure de dimension mondiale. Son équipage est composé de 15 personnes, originaires de 11 pays différents. Le navire ARK accueille toujours plus de développeurs issus de la Communauté. ARK est une véritable démarche décentralisée et collaborative, au sens strict des termes.",
+    "ARK is a truly global effort with 17 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK est une aventure de dimension mondiale. Son équipage est composé de 17 personnes, originaires de 11 pays différents. Le navire ARK accueille toujours plus de développeurs issus de la Communauté. ARK est une véritable démarche décentralisée et collaborative, au sens strict des termes.",
     "ARK is built on node.js/javascript but we want the world of developers to be comfortable in their favorite programming languages. So we are integrating multiple other languages.": "ARK est construit avec node.js/javascript. Toutefois, notre volonté est de permettre à chaque développeur de pouvoir utiliser ARK dans son langage de programmation. C'est pour cela que nous proposons des solutions d'intégration dans plusieurs autres langages.",
     "ARK isn’t being built by one man, one team, or even in one country.": "ARK n'est pas une technologie construite par une seule personne, une équipe ou même un pays.",
     "ARK Legacy Members": "Ont fait parti du lancement d'ARK",
@@ -42,7 +42,7 @@
     "ARK Roadmap": "ARK Feuille de route",
     "ARK utilizes a modified Delegated-Proof-Of-Stake (DPoS) consensus mechanism featuring 51 delegates": "ARK utilise un mécanisme de consensus DPoS (Delegated-Proof-Of-Stake) modifié, avec 51 délégués",
     "ARK wallets connect to fully synced network peers removing the need to download the full blockchain. With the ARK wallet you are up and running as soon as it’s installed, no more syncing! And, with 8 second block times you can actually see your transactions occur in real time! No more checking in every 30 minutes to see if your transactions were confirmed.": "Les portefeuilles ARK se connectent à des noeuds du réseau entièrement synchronisés. Cela évite de devoir télécharger la Blockchain complète. Le portefeuille ARK est opérationnel dès son installation. Plus besoin de synchronisation ! Par ailleurs, avec la création d'un bloc toutes les 8 secondes, vous pouvez assister en direct à la réalisation de vos ordres de transaction, depuis votre tableau de bord. Plus besoin de vérifier toutes les 30 minutes si votre transaction a été confirmée !",
-    "ARK was founded by 27 individuals from around the globe. Currently ARK has 15 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "Le Projet ARK a été initié par 27 personnes originaires de toute la planète. ARK est un véritable projet international et décentralisé.  ARK mobilise effectivement un équipage de 15 personnes, originaires d'une douzaine de pays depuis lesquels ils travaillent directement.",
+    "ARK was founded by 27 individuals from around the globe. Currently ARK has 17 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "Le Projet ARK a été initié par 27 personnes originaires de toute la planète. ARK est un véritable projet international et décentralisé.  ARK mobilise effectivement un équipage de 17 personnes, originaires d'une douzaine de pays depuis lesquels ils travaillent directement.",
     "ARK Whitepaper": "ARK Livre blanc",
     "ARK | All-in-One Blockchain Solutions": "ARK | La solution Blockchain tout-en-un",
     "ArkNode": "ArkNode",
@@ -281,5 +281,11 @@
     "Writing documentation, technical WP": "Rédaction d'une documentation et d'un Livre blanc technique",
     "Writing documents, making tutorials.": "Rédaction de documents, élaboration de supports didactiques.",
     "Writing technical specifications": "Rédaction des caractéristiques techniques",
-    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Vous devriez avoir accès à votre argent quand et où vous en avez besoin. C'est pourquoi ARK possède des solutions de portefeuilles mobiles natifs pour Android et iOS. Vérifiez votre solde, envoyez et recevez des fonds, ou votez pour votre délégué préféré, même loin de votre PC !"
+    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Vous devriez avoir accès à votre argent quand et où vous en avez besoin. C'est pourquoi ARK possède des solutions de portefeuilles mobiles natifs pour Android et iOS. Vérifiez votre solde, envoyez et recevez des fonds, ou votez pour votre délégué préféré, même loin de votre PC !",
+
+    "ARK Desktop Wallet": "ARK Desktop Wallet",
+    "ARK Paper Wallet": "ARK Paper Wallet",
+    "ARK Command Line Interface": "ARK Command Line Interface",
+    "ARK Lite Web Wallet": "ARK Lite Web Wallet",
+    "repositories": "repositories"
 }

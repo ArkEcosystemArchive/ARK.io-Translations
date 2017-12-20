@@ -28,7 +28,7 @@
     "ARK CORE - Founding Members, Advisers, and Crew": "ARK CORE - Ustanovitveni člani, Svetovalci, in Ekipa",
     "ARK CORE v2": "ARK CORE v2",
     "ARK Delegate List": "Seznam ARK delegatov",
-    "ARK is a truly global effort with 15 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK je zares globalna pobuda s 15 osrednjimi člani ekipe, ki prihaja iz kar 11 različnih dežel, okoli vsega pa je zrasla skupnost z vse bolj zagrizeno populacijo predanih razvijalcev. Sodelovanje med njimi potrjuje globalen značaj ARK pobude v polnem pomenu besede.",
+    "ARK is a truly global effort with 17 core team members from 11 different countries and an ever growing population of hardcore dedicated community developers, ARK is a collaborative effort in the true sense of the word.": "ARK je zares globalna pobuda s 17 osrednjimi člani ekipe, ki prihaja iz kar 11 različnih dežel, okoli vsega pa je zrasla skupnost z vse bolj zagrizeno populacijo predanih razvijalcev. Sodelovanje med njimi potrjuje globalen značaj ARK pobude v polnem pomenu besede.",
     "ARK is built on node.js/javascript but we want the world of developers to be comfortable in their favorite programming languages. So we are integrating multiple other languages.": "ARK je zgrajen na node.js/javascript, a ker želimo svetu razvijalcev ponuditi možnost izrabe čim več priljubljenih ter njim domačih, vključujemo vse večje število programskih jezikov.",
     "ARK isn’t being built by one man, one team, or even in one country.": "Gradnja ARK ni delo zgolj enega posameznika, ene ekipe ali celo ene same dežele.",
     "ARK Legacy Members": "Prvotni člani ARK",
@@ -42,7 +42,7 @@
     "ARK Roadmap": "Razvojni načrt ARK",
     "ARK utilizes a modified Delegated-Proof-Of-Stake (DPoS) consensus mechanism featuring 51 delegates": "ARK izrablja prikrojen mehanizem delegiranega dokaza deleža (Delegated-Proof-Of-Stake, DPoS) za vzpostavitev konsenza, ki je sestavljen iz 51 delegatov",
     "ARK wallets connect to fully synced network peers removing the need to download the full blockchain. With the ARK wallet you are up and running as soon as it’s installed, no more syncing! And, with 8 second block times you can actually see your transactions occur in real time! No more checking in every 30 minutes to see if your transactions were confirmed.": "ARK denarnice se povezujejo na popolnoma sinhronizirano omrežje vrstnikov, kar odpravlja potrebo bo prenosu celotne blokovne verige. Na ta način je vaša ARK denarnica v pogonu takoj po namestitvi, torej ni nikakršne zamudne sinhronizacije! Povrh vsega so tu še 8 sekundni blokovni časi, ki omogočajo sledenje transakcijam skoraj v stvarnem času! Poslovite se od rednega polurnega preverjanja potrditvenega statusa transakcij.",
-    "ARK was founded by 27 individuals from around the globe. Currently ARK has 15 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "ARK je bil ustanovljen s strani 27 posameznikov z vseh koncev sveta. V tem trenutku šteje ARK ekipa 15 osrednjih članov, ki prihajajo iz kar 11 različnih dežel, kar daje decentralizaciji povsem nov pomen.",
+    "ARK was founded by 27 individuals from around the globe. Currently ARK has 17 core team members, coming from 11 different countries, giving a decentralized team a whole new meaning.": "ARK je bil ustanovljen s strani 27 posameznikov z vseh koncev sveta. V tem trenutku šteje ARK ekipa 17 osrednjih članov, ki prihajajo iz kar 11 različnih dežel, kar daje decentralizaciji povsem nov pomen.",
     "ARK Whitepaper": "ARK bela knjiga",
     "ARK | All-in-One Blockchain Solutions": "ARK | Blokovno verižne rešitve vse-v-enem",
     "ArkNode": "ArkNode",
@@ -281,5 +281,11 @@
     "Writing documentation, technical WP": "Pisanje dokumentacije in tehnične bele knjige",
     "Writing documents, making tutorials.": "Pisanje dokumentov, ustvarjanje vodičev.",
     "Writing technical specifications": "Pisanje tehnične specifikacije",
-    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Dostop do denarja vam mora biti na voljo kjerkoli in kadarkoli ga potrebujete, zato ARK nudi mobilne denarnice za iOS in Android, v katerih lahko v gibanju preverite stanje, pošiljate in prejemate plačila, ter glasujete za svojega najljubšega delegata."
+    "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Dostop do denarja vam mora biti na voljo kjerkoli in kadarkoli ga potrebujete, zato ARK nudi mobilne denarnice za iOS in Android, v katerih lahko v gibanju preverite stanje, pošiljate in prejemate plačila, ter glasujete za svojega najljubšega delegata.",
+
+    "ARK Desktop Wallet": "ARK Desktop Wallet",
+    "ARK Paper Wallet": "ARK Paper Wallet",
+    "ARK Command Line Interface": "ARK Command Line Interface",
+    "ARK Lite Web Wallet": "ARK Lite Web Wallet",
+    "repositories": "repositories"
 }
