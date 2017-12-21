@@ -289,5 +289,12 @@
     "ARK Lite Web Wallet": "ARK Lite Web Wallet",
     "repositories": "repositories",
     "Send an email": "Send an email",
-    "More Info": "More Info"
+    "More Info": "More Info",
+
+    "Historical ARK Price and Volume": "Historical ARK Price and Volume",
+    "Date": "Date",
+    "Open": "Open",
+    "Close": "Close",
+    "Trade Volume": "Trade Volume",
+    "Change": "Change"
 }

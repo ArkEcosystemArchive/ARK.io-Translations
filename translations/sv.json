@@ -140,7 +140,7 @@
     "Integration of Inter-planetary File System (IPFS).": "Integration av Interplanetärt filsystem (IPFS).",
     "Integration of InterPlanetary DataBase (IPDB). This depends on final release. Learn more": "Integration av interplanetär databas (IPDB). Detta berors på den sista releasen. Se mer",
     "Interplanetary Database (IPDB).": "Interplanetär databas (IPDB).",
-	"IPFS (Inter-planetary File System) is a peer-to-peer hypermedia protocol. With IPFS integrated ARK will address large amounts of data and place the immutable, permanent IPFS links into the ARK blockchain without the bloat. It will timestamp and secure your content, without having to put the data on the chain itself.": "IPFS (Interplanetärt Filsystem) är ett per till peer hypermedia protokoll. Med IPFS integrerat ARK kommer stora mängder av data hanteras och placera de oföränderliga, permanenta IPFS länkarna in i ARK blockkedjan utan all bloat. Detta kommer tidsstämla och säkra ditt innehåll, utan att lägga datan på kedjan själv.",
+    "IPFS (Inter-planetary File System) is a peer-to-peer hypermedia protocol. With IPFS integrated ARK will address large amounts of data and place the immutable, permanent IPFS links into the ARK blockchain without the bloat. It will timestamp and secure your content, without having to put the data on the chain itself.": "IPFS (Interplanetärt Filsystem) är ett per till peer hypermedia protokoll. Med IPFS integrerat ARK kommer stora mängder av data hanteras och placera de oföränderliga, permanenta IPFS länkarna in i ARK blockkedjan utan all bloat. Detta kommer tidsstämla och säkra ditt innehåll, utan att lägga datan på kedjan själv.",
     "iPhone - coming soon": "iPhone - kommer snart",
     "issues": "problem",
     "Java - C# Dev / Co-Founder": "Java - C# Dev / Medgrundare",
@@ -160,7 +160,7 @@
     "Mac OS": "Mac OS",
     "Make Instructions and easy walk through": "Skapa instruktioner och lättanvända manualer",
     "Making ARK clone-able with push button deployment and linked to ARK’s Main Chain via SmartBridge. So any startup that wants to fork ark can do so with ease and be SmartBridge compatible right out of the box.": "Gör ARK klonbart med en knapptrycks distribution och länkad till ARK's huvudkedja via SmartBridge. Så något startup som vill grena ark kan göra så på ett enkelt och SmartBridge kompatibelt sätt direkt.",
-    "Making Documentation for SmartBridge. Making it Easy to understand with instructional tutorials. Also a more technical SmartBridge White Paper.":  "Gör dokumentation för SmartBridge. Gör det lätt att förstå intstruktionella genomgångar. Även en mer teknisk Smartbridge vitpapper",
+    "Making Documentation for SmartBridge. Making it Easy to understand with instructional tutorials. Also a more technical SmartBridge White Paper.": "Gör dokumentation för SmartBridge. Gör det lätt att förstå intstruktionella genomgångar. Även en mer teknisk Smartbridge vitpapper",
     "Making easy to use intructions": "Gör lättanvända instruktioner",
     "Managing Director / Co-Founder": "VD / Medgrundare",
     "Media Kit - ARK | All-in-One Blockchain Solutions": "Media Kit - ARK | Allt i en blockkedje lösningar",
@@ -282,12 +282,19 @@
     "Writing documents, making tutorials.": "Skriva dokument, skapa handledningar.",
     "Writing technical specifications": "Skriva tekniska specifikationer",
     "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Du ska ha tillgång till dina pengar var du än är och när du behöver det. Detta är varför ARK har native mobil plånböcker för både Android och iOS. Kolla din balans, skicka & ta emot medel, eller rösta för din favorit delegat, även i farten!",
-	
-	"ARK Desktop Wallet": "ARK Skrivbords plånbok",
+
+    "ARK Desktop Wallet": "ARK Skrivbords plånbok",
     "ARK Paper Wallet": "ARK Pappers plånbok",
     "ARK Command Line Interface": "ARK Kommandorads gränssnitt",
     "ARK Lite Web Wallet": "ARK Lite Web Plånbok",
     "repositories": "förvaringsplats",
     "Send an email": "Skicka ett mail",
-    "More Info": "Mer info"
+    "More Info": "Mer info",
+
+    "Historical ARK Price and Volume": "Historical ARK Price and Volume",
+    "Date": "Date",
+    "Open": "Open",
+    "Close": "Close",
+    "Trade Volume": "Trade Volume",
+    "Change": "Change"
 }
