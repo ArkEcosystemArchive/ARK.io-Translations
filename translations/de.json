@@ -284,19 +284,19 @@
     "You should have access to your money whenever and wherever you need it. That is why ARK has native mobile wallets for both Android and iOS. Check your balance, send & receive funds, or vote for your favorite delegate, even on the go!": "Sie sollten überall und zu jeder Zeit Zugang zu Ihrem Geld haben. Deshalb bietet ARK Smartphone-Wallets für Android und iOS. Überprüfen Sie Ihr Konto, senden und erhalten Sie Zahlungen, oder wählen Sie Ihren Lieblings-Delegierten - alles unterwegs!",
 
     "ARK Desktop Wallet": "ARK Desktop Wallet",
-    "ARK Paper Wallet": "ARK Paper Wallet",
-    "ARK Command Line Interface": "ARK Command Line Interface",
+    "ARK Paper Wallet": "ARK Papier Wallet",
+    "ARK Command Line Interface": "ARK Befehlszeilenschnittstelle",
     "ARK Lite Web Wallet": "ARK Lite Web Wallet",
     "repositories": "repositories",
-    "Send an email": "Send an email",
-    "More Info": "More Info",
+    "Send an email": "Sende eine E-Mail",
+    "More Info": "Mehr Infos",
 
-    "Historical ARK Price and Volume": "Historical ARK Price and Volume",
-    "Date": "Date",
-    "Open": "Open",
-    "Close": "Close",
-    "Trade Volume": "Trade Volume",
-    "Change": "Change",
+    "Historical ARK Price and Volume": "Historischer ARK Preis und Volumen",
+    "Date": "Datum",
+    "Open": "Offen",
+    "Close": "Schließen",
+    "Trade Volume": "Handelsvolumen",
+    "Change": "Veränderung",
 
-    "Core Developer": "Core Developer"
+    "Core Developer": "Kernentwickler"
 }
