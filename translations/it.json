@@ -288,14 +288,14 @@
     "ARK Command Line Interface": "ARK Command Line Interface",
     "ARK Lite Web Wallet": "ARK Lite Web Wallet",
     "repositories": "repositories",
-    "Send an email": "Send an email",
-    "More Info": "More Info",
+    "Send an email": "Invia un'email",
+    "More Info": "Ulteriori informazioni",
 
-    "Historical ARK Price and Volume": "Historical ARK Price and Volume",
-    "Date": "Date",
-    "Open": "Open",
-    "Close": "Close",
-    "Trade Volume": "Trade Volume",
+    "Historical ARK Price and Volume": "Valore e volumi storici di ARK",
+    "Date": "Data",
+    "Open": "Apri",
+    "Close": "Chiudi",
+    "Trade Volume": "Volume di scambi",
     "Change": "Change",
 
     "Core Developer": "Core Developer"
